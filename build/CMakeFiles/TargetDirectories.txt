@@ -1,0 +1,12 @@
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/intrinsics_gen.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/vt_gen.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/omp_gen.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/acc_gen.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/target_parser_gen.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/clang-tablegen-targets.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/detector_lib.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/detector.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/tests.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/test.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/edit_cache.dir
+C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/rebuild_cache.dir

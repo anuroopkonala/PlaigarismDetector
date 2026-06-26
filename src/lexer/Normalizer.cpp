@@ -10,15 +10,8 @@ const std::vector<Token>& input)
 
     std::vector<Token> output;
 
-    std::unordered_map<std::string,std::string>
-
-    variables;
-
-    int id=1;
-
     for(auto token:input)
     {
-
         if(token.type==TokenType::Comment)
             continue;
 
@@ -29,20 +22,10 @@ const std::vector<Token>& input)
 
         if(token.type==TokenType::Identifier)
         {
-
-            if(!variables.count(token.value))
-            {
-                variables[token.value]
-                    ="VAR"+
-                    std::to_string(id++);
-            }
-
-            token.value=
-                variables[token.value];
+            token.value="VAR";
         }
 
         output.push_back(token);
-
     }
 
     return output;

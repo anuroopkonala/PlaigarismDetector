@@ -1,0 +1,35 @@
+# ninja log v7
+23	549	8041583397116419	CMakeFiles/detector_lib.dir/src/fingerprint/Winnower.cpp.obj	35e504126ed7a36
+20	691	8041583397080768	CMakeFiles/detector_lib.dir/src/fingerprint/RollingHash.cpp.obj	d75b2a420ad10197
+18	796	8041583397060725	CMakeFiles/detector_lib.dir/src/lexer/Lexer.cpp.obj	fa7fdb91618580ab
+62	1480	8041572538840457	CMakeFiles/detector_lib.dir/src/cli/CLI.cpp.obj	4aba7f17b4ce951e
+60	1523	8041572538810456	CMakeFiles/detector_lib.dir/src/io/Logger.cpp.obj	284499ba1a370af5
+57	448	8041585296099638	CMakeFiles/detector_lib.dir/src/lexer/Normalizer.cpp.obj	a79b3fd094a6dee
+57	1965	8041572538780128	CMakeFiles/detector_lib.dir/src/io/FileReader.cpp.obj	355f0fc054fe8ca6
+49	1192	8041583397379774	CMakeFiles/detector.dir/src/main.cpp.obj	f5da900b7d174eec
+53	2170	8041572538740122	CMakeFiles/detector_lib.dir/src/io/FileScanner.cpp.obj	155a7b013e37ac3c
+36	1264	8041583397231554	CMakeFiles/detector_lib.dir/src/ast/APTEDDistance.cpp.obj	5d594a0a7e42297f
+60	708	8041585296129515	CMakeFiles/detector_lib.dir/src/ast/ASTNormalizer.cpp.obj	59c3bdb19ec3603e
+30	1306	8041583397176427	CMakeFiles/detector_lib.dir/src/similarity/SimilarityEngine.cpp.obj	a374517a5ea6f505
+41	1296	8041583397294141	CMakeFiles/detector_lib.dir/src/core/ThreadPool.cpp.obj	7fbb2cc495b9cfdd
+27	1618	8041583397156426	CMakeFiles/detector_lib.dir/src/index/InvertedIndex.cpp.obj	20ca069f3256a5cd
+38	1747	8041583397268931	CMakeFiles/detector_lib.dir/src/report/ReportGenerator.cpp.obj	4550891b8e5606b1
+66	1776	8041585296189545	CMakeFiles/detector_lib.dir/src/core/Pipeline.cpp.obj	f64b2c3477746f5f
+1776	1953	8041585313294288	libdetector_lib.a	8816e8cdc092f9ce
+1953	2172	8041585315066259	detector.exe	7b96af145052509a
+73	1641	8041585296259527	CMakeFiles/tests.dir/tests/test.cpp.obj	3de239e0daf98f23
+1958	2149	8041585315113812	tests.exe	3e8c1620133a6a6
+23	457	8041590852524044	build.ninja	7a921724f2ecf963
+23	457	8041590852398276	C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/cmake_install.cmake	7a921724f2ecf963
+23	457	8041590852423982	C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CTestTestfile.cmake	7a921724f2ecf963
+33	819	8041590852524044	build.ninja	7a921724f2ecf963
+33	819	8041590852524044	C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/cmake_install.cmake	7a921724f2ecf963
+33	819	8041590852524044	C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CTestTestfile.cmake	7a921724f2ecf963
+53	1732	8041590853738474	CMakeFiles/detector.dir/src/main.cpp.obj	f5da900b7d174eec
+35	2053	8041590853553992	CMakeFiles/detector_lib.dir/src/similarity/SimilarityEngine.cpp.obj	a374517a5ea6f505
+41	2820	8041590853618386	CMakeFiles/detector_lib.dir/src/report/ReportGenerator.cpp.obj	4550891b8e5606b1
+59	3498	8041590853798483	CMakeFiles/tests.dir/tests/test.cpp.obj	3de239e0daf98f23
+48	4440	8041590853678474	CMakeFiles/detector_lib.dir/src/core/Pipeline.cpp.obj	f64b2c3477746f5f
+4441	5150	8041590897609344	libdetector_lib.a	a7f1bb1c535ef5a0
+5162	5649	8041590904818360	tests.exe	3e8c1620133a6a6
+5151	5712	8041590904709985	detector.exe	7b96af145052509a
