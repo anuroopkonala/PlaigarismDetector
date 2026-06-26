@@ -24,8 +24,3 @@
 ## Phase 6 ✅ — Reports
 - **JSON** (`report.json`): ISO-8601 timestamp, all scores + risk level per pair.
 - **HTML** (`report.html`): self-contained, sortable table, colour-coded HIGH/MEDIUM/LOW badges, per-metric score bars, live score/risk filter.
-
-## Phase 7 (Future)
-- Source-highlighted diff view in HTML report.
-- Git integration (compare across branches/commits).
-- Web dashboard with submission upload.
