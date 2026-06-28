@@ -9,18 +9,18 @@
 #include "ASTNormalizer.h"
 #include "APTEDDistance.h"
 #include "FileScanner.h"
+#include "Fingerprint.h"
+#include "InvertedIndex.h"
 #include "Lexer.h"
 #include "Logger.h"
 #include "Normalizer.h"
 #include "ReportGenerator.h"
+#include "RollingHash.h"
 #include "SimilarityEngine.h"
 #include "ThreadPool.h"
-
-
+#include "Winnower.h"
 
 Pipeline::Pipeline(const PipelineConfig& cfg) : cfg_(cfg) {}
-
-
 
 static std::vector<std::string>
 toStringVec(const std::vector<Token>& tokens)
@@ -31,10 +31,10 @@ toStringVec(const std::vector<Token>& tokens)
     return out;
 }
 
-
 struct FileData
 {
     std::string              path;
+    std::vector<Fingerprint> fingerprints;
     std::vector<std::string> tokens;   
 };
 
@@ -71,12 +71,16 @@ int Pipeline::run()
             {
                 Lexer      lexer;
                 Normalizer norm;
+                RollingHash hasher(cfg_.kGram);
+                Winnower    win(cfg_.window);
 
                 auto raw        = lexer.tokenize(p.string());
                 auto normalized = norm.normalize(raw);
                 auto words      = toStringVec(normalized);
+                auto hashes     = hasher.compute(words);
+                auto fps        = win.select(hashes);
 
-                return { p.string(), std::move(words) };
+                return { p.string(), std::move(fps), std::move(words) };
             }));
         }
 
@@ -94,7 +98,8 @@ int Pipeline::run()
 
                 if (cfg_.verbose)
                     Logger::info("  " + fs::path(fd.path).filename().string() +
-                                 " — " +
+                                 " — " + std::to_string(fd.fingerprints.size()) +
+                                 " fingerprints, " +
                                  std::to_string(fd.tokens.size()) + " tokens");
 
                 simEngine.addDocument(fd.path, fd.tokens);
@@ -110,31 +115,35 @@ int Pipeline::run()
         Logger::info("Processed: " + std::to_string(corpus.size()) +
                      " files (" + std::to_string(skipCount) + " skipped)");
 
-        std::vector<std::pair<std::string, std::string>> candidates;
-        for (size_t i = 0; i < corpus.size(); ++i)
+        InvertedIndex idx;
+        for (const auto& fd : corpus)
         {
-            for (size_t j = i + 1; j < corpus.size(); ++j)
-            {
-                candidates.push_back({corpus[i].path, corpus[j].path});
-            }
+            idx.insert(fs::path(fd.path), fd.fingerprints);
         }
+
+        auto candidates = idx.candidates();
         Logger::info("Candidate pairs: " + std::to_string(candidates.size()));
 
         std::vector<std::future<PairResult>> scoreFutures;
         scoreFutures.reserve(candidates.size());
 
+        std::unordered_map<std::string, size_t> fpCount;
+        for (const auto& fd : corpus)
+            fpCount[fd.path] = fd.fingerprints.size();
+
         for (const auto& cand : candidates)
         {
-            const std::string pathA = cand.first;
-            const std::string pathB = cand.second;
+            const std::string pathA = cand.fileA.string();
+            const std::string pathB = cand.fileB.string();
+            size_t shared = cand.sharedHashes;
 
             scoreFutures.push_back(pool.enqueue(
-                [pathA, pathB, &simEngine, this]() -> PairResult
+                [pathA, pathB, shared, &simEngine, this]() -> PairResult
                 {
                     PairResult r;
                     r.fileA             = pathA;
                     r.fileB             = pathB;
-                    r.sharedFingerprints = 0;
+                    r.sharedFingerprints = shared;
 
                     r.lcsSim    = simEngine.lcsSimilarity(pathA, pathB);
                     r.cosineSim = simEngine.cosineSimilarity(pathA, pathB);

@@ -53,6 +53,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -254,6 +256,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -332,6 +336,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -746,6 +752,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -825,6 +833,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -919,6 +929,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -955,6 +967,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1027,6 +1041,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1063,6 +1079,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1135,6 +1153,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1171,6 +1191,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1243,6 +1265,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1279,6 +1303,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1351,6 +1377,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1387,6 +1415,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1459,6 +1489,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1495,6 +1527,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1567,6 +1601,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1603,6 +1639,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1675,6 +1713,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1711,6 +1751,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1783,6 +1825,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1819,6 +1863,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1891,6 +1937,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -1927,6 +1975,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -1999,6 +2049,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -2079,6 +2131,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/tapi.com"
       - "C:/Program Files/OpenSSL-Win64/bin/tapi.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/tapi"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/tapi.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/tapi.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/tapi"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/tapi.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/tapi.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/tapi"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
@@ -2127,6 +2185,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -2202,6 +2262,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -2282,6 +2344,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.1.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.1.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.1"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.1.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.1.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.1"
@@ -2375,6 +2443,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16"
@@ -2468,6 +2542,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar16"
@@ -2517,6 +2597,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -2592,6 +2674,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -2672,6 +2756,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.1.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.1.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.1"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.1.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.1.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.1"
@@ -2765,6 +2855,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16"
@@ -2858,6 +2954,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib16"
@@ -2907,6 +3009,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -2990,6 +3094,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3069,6 +3175,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3166,6 +3274,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -3246,6 +3356,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.1.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.1.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.1"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.1.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.1.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.1"
@@ -3339,6 +3455,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar-16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-16"
@@ -3432,6 +3554,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ar16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ar16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar16"
@@ -3481,6 +3609,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3556,6 +3686,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -3636,6 +3768,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.1.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.1.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.1"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.1.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.1.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.1"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.1.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.1.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.1"
@@ -3729,6 +3867,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib-16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-16"
@@ -3822,6 +3966,12 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib16.com"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib16.exe"
       - "C:/Program Files/OpenSSL-Win64/bin/gcc-ranlib16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib16"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib16.com"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib16.exe"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/gcc-ranlib16"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib16.com"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib16.exe"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib16"
@@ -3871,6 +4021,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -3946,6 +4098,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -4048,6 +4202,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -4091,8 +4247,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-90iw2t"
-      binary: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-90iw2t"
+      source: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-6upnyl"
+      binary: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-6upnyl"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -4102,10 +4258,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-90iw2t'
+        Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-6upnyl'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_b6a1e
-        [1/2] C:\\msys64\\ucrt64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_eb378
+        [1/2] C:\\msys64\\ucrt64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\cc.exe
         Target: x86_64-w64-mingw32
@@ -4113,8 +4269,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b6a1e.dir/'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b6a1e.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccw5Oyod.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_eb378.dir/'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_eb378.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccbE7Qlt.s
         GNU C23 (Rev5, Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.27-GMP
         
@@ -4132,13 +4288,13 @@ events:
          C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed
         End of search list.
         Compiler executable checksum: 8ce1135867793bb4ef554b26be63cf3e
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b6a1e.dir/'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccw5Oyod.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_eb378.dir/'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccbE7Qlt.s
         GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj -o cmTC_b6a1e.exe -Wl,--out-implib,libcmTC_b6a1e.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\cc.exe  -v -Wl,-v CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj -o cmTC_eb378.exe -Wl,--out-implib,libcmTC_eb378.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\cc.exe
         COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe
@@ -4149,12 +4305,12 @@ events:
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b6a1e.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_b6a1e.'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccuuLKEg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_b6a1e.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_b6a1e.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_eb378.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_eb378.'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cc5ybNgD.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_eb378.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_eb378.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         collect2 version 16.1.0
-        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccuuLKEg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_b6a1e.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_b6a1e.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cc5ybNgD.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_eb378.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_eb378.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         GNU ld (GNU Binutils) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b6a1e.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_b6a1e.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_eb378.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_eb378.'
         
       exitCode: 0
   -
@@ -4187,10 +4343,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-90iw2t']
+        ignore line: [Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-6upnyl']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_b6a1e]
-        ignore line: [[1/2] C:\\msys64\\ucrt64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_eb378]
+        ignore line: [[1/2] C:\\msys64\\ucrt64\\bin\\cc.exe   -v -o CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\cc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -4198,8 +4354,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.1.0 (Rev5  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b6a1e.dir/']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b6a1e.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccw5Oyod.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_eb378.dir/']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_eb378.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccbE7Qlt.s]
         ignore line: [GNU C23 (Rev5  Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -4217,8 +4373,8 @@ events:
         ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 8ce1135867793bb4ef554b26be63cf3e]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b6a1e.dir/']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccw5Oyod.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_eb378.dir/']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccbE7Qlt.s]
         ignore line: [GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46]
         ignore line: [COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/]
@@ -4229,8 +4385,8 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj -o cmTC_b6a1e.exe -Wl --out-implib libcmTC_b6a1e.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\cc.exe  -v -Wl -v CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj -o cmTC_eb378.exe -Wl --out-implib libcmTC_eb378.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\cc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe]
@@ -4248,14 +4404,14 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b6a1e.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_b6a1e.']
-        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccuuLKEg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_b6a1e.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_b6a1e.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_eb378.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_eb378.']
+        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cc5ybNgD.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_eb378.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_eb378.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe] ==> ignore
           arg [-plugin-opt=-fresolution=C:\\Users\\Anuroop] ==> ignore
-          arg [Reddy\\AppData\\Local\\Temp\\ccuuLKEg.res] ==> ignore
+          arg [Reddy\\AppData\\Local\\Temp\\cc5ybNgD.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -4277,7 +4433,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_b6a1e.exe] ==> ignore
+          arg [cmTC_eb378.exe] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0]
@@ -4287,9 +4443,9 @@ events:
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj] ==> ignore
+          arg [CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_b6a1e.dll.a] ==> ignore
+          arg [libcmTC_eb378.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -4314,7 +4470,7 @@ events:
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         ignore line: [collect2 version 16.1.0]
-        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccuuLKEg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_b6a1e.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_b6a1e.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_b6a1e.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cc5ybNgD.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_eb378.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_eb378.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_eb378.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         linker tool for 'C': C:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [gcc_eh]
         remove lib [msvcrt]
@@ -4355,8 +4511,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-h4ivcq"
-      binary: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-h4ivcq"
+      source: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-u24m6l"
+      binary: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-u24m6l"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -4367,10 +4523,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-h4ivcq'
+        Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-u24m6l'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_4f96b
-        [1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_40929
+        [1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe
         Target: x86_64-w64-mingw32
@@ -4378,8 +4534,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4f96b.dir/'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_4f96b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccDa8HTW.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_40929.dir/'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_40929.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cctBx33e.s
         GNU C++20 (Rev5, Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.27-GMP
         
@@ -4403,13 +4559,13 @@ events:
          C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed
         End of search list.
         Compiler executable checksum: c17fb94a142b10fdb3ae88ea0e837cbf
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4f96b.dir/'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccDa8HTW.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_40929.dir/'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cctBx33e.s
         GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_4f96b.exe -Wl,--out-implib,libcmTC_4f96b.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_40929.exe -Wl,--out-implib,libcmTC_40929.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe
         COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe
@@ -4420,12 +4576,12 @@ events:
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4f96b.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4f96b.'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccZ5Rrk6.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4f96b.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4f96b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_40929.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_40929.'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccu3IXOe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_40929.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_40929.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         collect2 version 16.1.0
-        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccZ5Rrk6.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4f96b.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4f96b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccu3IXOe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_40929.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_40929.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         GNU ld (GNU Binutils) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4f96b.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4f96b.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_40929.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_40929.'
         
       exitCode: 0
   -
@@ -4464,10 +4620,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-h4ivcq']
+        ignore line: [Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-u24m6l']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_4f96b]
-        ignore line: [[1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_40929]
+        ignore line: [[1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -4475,8 +4631,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.1.0 (Rev5  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4f96b.dir/']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_4f96b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccDa8HTW.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_40929.dir/']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_40929.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cctBx33e.s]
         ignore line: [GNU C++20 (Rev5  Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -4500,8 +4656,8 @@ events:
         ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: c17fb94a142b10fdb3ae88ea0e837cbf]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4f96b.dir/']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccDa8HTW.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_40929.dir/']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\cctBx33e.s]
         ignore line: [GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46]
         ignore line: [COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/]
@@ -4512,8 +4668,8 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_4f96b.exe -Wl --out-implib libcmTC_4f96b.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_40929.exe -Wl --out-implib libcmTC_40929.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe]
@@ -4531,14 +4687,14 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4f96b.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4f96b.']
-        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccZ5Rrk6.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4f96b.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4f96b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_40929.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_40929.']
+        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccu3IXOe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_40929.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_40929.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe] ==> ignore
           arg [-plugin-opt=-fresolution=C:\\Users\\Anuroop] ==> ignore
-          arg [Reddy\\AppData\\Local\\Temp\\ccZ5Rrk6.res] ==> ignore
+          arg [Reddy\\AppData\\Local\\Temp\\ccu3IXOe.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -4560,7 +4716,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_4f96b.exe] ==> ignore
+          arg [cmTC_40929.exe] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0]
@@ -4570,9 +4726,9 @@ events:
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_4f96b.dll.a] ==> ignore
+          arg [libcmTC_40929.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -4598,7 +4754,7 @@ events:
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         ignore line: [collect2 version 16.1.0]
-        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccZ5Rrk6.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4f96b.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4f96b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4f96b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\Anuroop Reddy\\AppData\\Local\\Temp\\ccu3IXOe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_40929.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_40929.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_40929.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         linker tool for 'CXX': C:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [msvcrt]
         remove lib [msvcrt]
@@ -4675,6 +4831,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -4888,6 +5046,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -4974,6 +5134,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5056,6 +5218,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -5097,6 +5261,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/ffi.h"
       - "C:/Program Files/CMake/bin/ffi.h"
       - "C:/Program Files/OpenSSL-Win64/bin/ffi.h"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/ffi.h"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/ffi.h"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/ffi.h"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/ffi.h"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/ffi.h"
@@ -5135,6 +5301,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5213,6 +5381,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -5256,6 +5426,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -5294,6 +5466,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5376,6 +5550,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -5443,6 +5619,10 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
@@ -5492,6 +5672,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5541,8 +5723,8 @@ events:
     checks:
       - "Performing Test HAVE_FFI_CALL"
     directories:
-      source: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-b5hj9c"
-      binary: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-b5hj9c"
+      source: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-oq855v"
+      binary: "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-oq855v"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -5553,11 +5735,11 @@ events:
       variable: "HAVE_FFI_CALL"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-b5hj9c'
+        Change Dir: 'C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-oq855v'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_d343f
-        [1/2] C:\\msys64\\ucrt64\\bin\\cc.exe -DHAVE_FFI_CALL   -o CMakeFiles/cmTC_d343f.dir/src.c.obj -c "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-b5hj9c/src.c"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\cc.exe   CMakeFiles/cmTC_d343f.dir/src.c.obj -o cmTC_d343f.exe -Wl,--out-implib,libcmTC_d343f.dll.a -Wl,--major-image-version,0,--minor-image-version,0  C:/msys64/ucrt64/lib/libffi.dll.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_3ba37
+        [1/2] C:\\msys64\\ucrt64\\bin\\cc.exe -DHAVE_FFI_CALL   -o CMakeFiles/cmTC_3ba37.dir/src.c.obj -c "C:/Users/Anuroop Reddy/Projects/PlagiarismDetector/PlagiarismDetector/build/CMakeFiles/CMakeScratch/TryCompile-oq855v/src.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\cc.exe   CMakeFiles/cmTC_3ba37.dir/src.c.obj -o cmTC_3ba37.exe -Wl,--out-implib,libcmTC_3ba37.dll.a -Wl,--major-image-version,0,--minor-image-version,0  C:/msys64/ucrt64/lib/libffi.dll.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -5628,6 +5810,10 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/include/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/include/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/include/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/include/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/include/"
@@ -5713,6 +5899,10 @@ events:
       - "C:/Program Files/CMake/bin/zlib.h"
       - "C:/Program Files/OpenSSL-Win64/bin/include/zlib.h"
       - "C:/Program Files/OpenSSL-Win64/bin/zlib.h"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/include/zlib.h"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/zlib.h"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/include/zlib.h"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/zlib.h"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/include/zlib.h"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/zlib.h"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/include/zlib.h"
@@ -5763,6 +5953,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -5872,6 +6064,10 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/lib/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lib/"
@@ -6297,6 +6493,38 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
@@ -6508,6 +6736,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -6622,6 +6852,10 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/lib/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lib/"
@@ -7095,6 +7329,42 @@ events:
       - "C:/Program Files/OpenSSL-Win64/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/lib/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/"
@@ -7482,6 +7752,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -7846,6 +8118,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -7932,6 +8206,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -8042,6 +8318,10 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/libxml2/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/libxml2/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/libxml2/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/libxml2/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/libxml2/"
@@ -8099,6 +8379,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -8180,6 +8462,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -8224,6 +8508,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
@@ -8306,6 +8592,8 @@ events:
       - "C:/Program Files/Microsoft VS Code/bin/"
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/OpenSSL-Win64/bin/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/Anuroop Reddy/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "C:/Users/Anuroop Reddy/AppData/Local/Programs/Python/Python314/Scripts/"
@@ -8408,6 +8696,8 @@ events:
         - "C:\\Program Files\\Microsoft VS Code\\bin"
         - "C:\\Program Files\\CMake\\bin"
         - "C:\\Program Files\\OpenSSL-Win64\\bin"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\Anuroop Reddy\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\Anuroop Reddy\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"

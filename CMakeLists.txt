@@ -50,6 +50,15 @@ set(LEXER_SOURCES
     src/lexer/Normalizer.cpp
 )
 
+set(FINGERPRINT_SOURCES
+    src/fingerprint/RollingHash.cpp
+    src/fingerprint/Winnower.cpp
+)
+
+set(INDEX_SOURCES
+    src/index/InvertedIndex.cpp
+)
+
 set(SIMILARITY_SOURCES
     src/similarity/SimilarityEngine.cpp
 )
@@ -72,6 +81,8 @@ set(ALL_LIB_SOURCES
     ${IO_SOURCES}
     ${CLI_SOURCES}
     ${LEXER_SOURCES}
+    ${FINGERPRINT_SOURCES}
+    ${INDEX_SOURCES}
     ${SIMILARITY_SOURCES}
     ${AST_SOURCES}
     ${REPORT_SOURCES}

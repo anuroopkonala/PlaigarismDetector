@@ -15,6 +15,9 @@
 #include "SimilarityEngine.h"
 #include "ThreadPool.h"
 #include "Token.h"
+#include "RollingHash.h"
+#include "Winnower.h"
+#include "InvertedIndex.h"
 
 
 
@@ -208,8 +211,125 @@ static void testThreadPool()
 
 
 
+static void testRollingHash()
+{
+    std::cout << "\n[RollingHash — true O(N) Rabin-Karp]\n";
+    RollingHash rh(3);
+
+    CHECK(rh.compute({"a","b"}).empty());
+
+    auto h2 = rh.compute({"x","y","z"});
+    CHECK(h2.size() == 1);
+
+    CHECK(h2[0] == rh.compute({"x","y","z"})[0]);
+
+    auto h3 = rh.compute({"a","b","c"});
+    CHECK(h2[0] != h3[0]);
+
+    CHECK(rh.compute({"a","b","c","d","e"}).size() == 3);
+
+    RollingHash rh5(5);
+    auto big = rh5.compute({"int","VAR1","=","NUM",";","return","VAR1",";"});
+    CHECK(big.size() == 4);
+
+    for (auto h : big) CHECK(h != 0);
+}
+
+static void testWinnower()
+{
+    std::cout << "\n[Winnower — O(N) sliding-window minimum]\n";
+    Winnower w(3);
+
+    CHECK(w.select({1,2}).empty());
+
+    auto fp1 = w.select({5,5,5,5,5});
+    CHECK(!fp1.empty());
+    for (size_t i = 1; i < fp1.size(); ++i)
+        CHECK(fp1[i].tokenIndex != fp1[i-1].tokenIndex);
+
+    std::vector<uint64_t> h10 = {9,2,8,1,7,3,6,4,5,0};
+    auto fp2 = w.select(h10);
+    
+    CHECK(!fp2.empty());
+
+    uint64_t minH = *std::min_element(h10.begin(), h10.end());
+    bool found = false;
+    for (auto& fp : fp2) if (fp.hash == minH) { found = true; break; }
+    CHECK(found);
+
+    for (auto& fp : fp2) CHECK(fp.tokenIndex < h10.size());
+}
+
+static void testInvertedIndex()
+{
+    std::cout << "\n[InvertedIndex]\n";
+
+    {
+        InvertedIndex idx;
+        idx.insert("a.cpp", {{100,0},{200,1}});
+        idx.insert("b.cpp", {{300,0},{400,1}});
+        CHECK(idx.candidates().empty());
+    }
+
+    {
+        InvertedIndex idx;
+        idx.insert("x.cpp", {{111,0},{222,1}});
+        idx.insert("y.cpp", {{111,0},{333,1}});
+        auto c = idx.candidates();
+        CHECK(c.size() == 1);
+        CHECK(c[0].sharedHashes == 1);
+    }
+
+    {
+        InvertedIndex idx;
+        idx.insert("p.cpp", {{10,0},{20,1}});
+        idx.insert("q.cpp", {{10,0},{20,1}});
+        auto c = idx.candidates();
+        CHECK(c.size() == 1);
+        CHECK(c[0].sharedHashes == 2);
+    }
+
+    {
+        InvertedIndex idx;
+        idx.insert("f1.cpp", {{1,0},{2,1}});
+        idx.insert("f2.cpp", {{1,0},{3,1}});  
+        idx.insert("f3.cpp", {{2,0},{3,1}});  
+        auto c = idx.candidates();
+        CHECK(c.size() == 3);  
+    }
+
+    {
+        InvertedIndex idx;
+        idx.insert("a.cpp", {{1,0},{2,1},{3,2}});
+        idx.insert("b.cpp", {{1,0},{2,1}});       
+        idx.insert("c.cpp", {{1,0},{2,1},{3,2}}); 
+        auto c = idx.candidates();
+        CHECK(!c.empty() && c[0].sharedHashes >= c.back().sharedHashes);
+    }
+}
+
+static void testRollingProperty()
+{
+    std::cout << "\n[RollingHash — rolling consistency check]\n";
+
+    RollingHash rh(4);
+    std::vector<std::string> tokens = {"int","VAR1","=","NUM",";","return","VAR1",";","}"};
+    auto hashes = rh.compute(tokens);
+
+    for (size_t i = 0; i + 4 <= tokens.size(); ++i)
+    {
+        std::vector<std::string> sub(tokens.begin() + i, tokens.begin() + i + 4);
+        auto subH = rh.compute(sub);
+        CHECK(subH.size() == 1 && subH[0] == hashes[i]);
+    }
+}
+
 int main()
 {
+    testRollingHash();
+    testWinnower();
+    testInvertedIndex();
+    testRollingProperty();
     testSimilarityEngine();
     testNormalizer();
     testAPTEDDistance();

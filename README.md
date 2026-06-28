@@ -8,6 +8,8 @@ A C++20 plagiarism detection engine for C/C++ source code, built around Clang Li
 |---|---|
 | **Lexer** | Clang `libclang` C API — correct tokenisation of any valid C/C++ with C++20 standard flags |
 | **Normaliser** | Strips comments, maps all variable identifiers to a uniform `VAR` placeholder to prevent renaming bypasses, and normalises all literals to `NUM` |
+| **Prefiltering Stage** | Rabin-Karp polynomial `RollingHash` + linear-time `Winnower` minimum fingerprint selection to index and filter files |
+| **Inverted Index** | `InvertedIndex` mapping fingerprint hashes to files to generate suspicious candidate pairs, reducing pairwise comparisons from $O(N^2)$ to $O(C)$ |
 | **TF-IDF cosine** | Bag-of-tokens IDF-weighted similarity, catches vocabulary overlap |
 | **LCS** | Space-optimised $O(\|A\| \cdot \|B\|)$ DP, catches reordered and aligned code |
 | **AST Normalisation** | Direct recursive n-ary tree construction from Clang AST cursor hierarchy |
@@ -19,13 +21,19 @@ A C++20 plagiarism detection engine for C/C++ source code, built around Clang Li
 
 ```
 FileScanner
-    │ (parallel, one task per file)
-    ▼
+     │ (parallel, one task per file)
+     ▼
 Lexer ──► Normalizer (renaming & comment strip)
                  │
                  ▼
-         SimilarityEngine (addDocument)
+   RollingHash ──► Winnower (fingerprints)
                  │
+                 ├──────────────────────────────┐
+                 ▼                              ▼
+          InvertedIndex                  SimilarityEngine (addDocument)
+                 │ (candidate generator)
+                 ▼
+          Candidate Pairs
                  │ (parallel, one task per candidate pair)
                  ▼
     ┌──────────────────────────────────┐
@@ -79,40 +87,43 @@ Options:
   --output    <dir>   Output directory for reports (default: .)
   --threshold <f>     Minimum combined score [0-1] (default: 0.3)
   --threads   <n>     Worker threads (default: hw_concurrency)
+  --kgram     <n>     Rolling hash k-gram size (default: 5)
+  --window    <n>     Winnowing window size (default: 4)
   --verbose           Per-file processing info
+  --help              Show help message
 ```
 
 ### Example
 
 ```bash
-./build/detector ./submissions --output ./reports --threshold 0.4 --verbose
+./build/detector ./sample_codes --output ./reports --threshold 0.3 --verbose
 ```
 
 ```
-[INFO] Files found: 2
-[INFO] Thread pool: 20 threads
-[INFO]   alice.cpp — 47 tokens
-[INFO]   bob.cpp — 47 tokens
-[INFO] Processed: 2 files (0 skipped)
-[INFO] Candidate pairs: 1
-[INFO] Computing AST similarity for 1 pairs...
+[INFO] Files found: 20
+[INFO] Thread pool: 12 threads
+[INFO]   bubble_sort_original.cpp — 18 fingerprints, 64 tokens
+[INFO]   bubble_sort_plagiarized.cpp — 18 fingerprints, 64 tokens
+[INFO] Processed: 20 files (0 skipped)
+[INFO] Candidate pairs: 46
+[INFO] Computing AST similarity for 46 pairs...
 [INFO] Flagged pairs: 1
 
-┌─ Plagiarism Report (1 pairs above threshold 0.1) ─
+┌─ Plagiarism Report (1 pairs above threshold 0.3) ─
 │
-│  alice.cpp  ↔  bob.cpp
-│    LCS=0.830  Cosine=0.973  AST=0.841  Combined=0.889
+│  bubble_sort_plagiarized.cpp  ↔  bubble_sort_original.cpp
+│    LCS=0.970  Cosine=0.912  AST=0.907  Combined=0.935
 └──────────────────────────────────────────
 
-[INFO] Reports written to: ./reports
+[INFO] Reports written to: reports
 ```
 
 ## Tests
 
 ```bash
 # Run unit tests
-./build/tests
-# Results: 25 passed
+./build/tests.exe
+# Results: 59 passed
 ```
 
 ## Combined Score Weights
